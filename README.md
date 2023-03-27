@@ -4,7 +4,7 @@ ALL - IN - ONE Script
 **開啟Linux終端機輸入**
 
 ```
-./all-in-one-script.sh
+./install.sh
 ```
 
 *即可下載所有套件清單的內容*
